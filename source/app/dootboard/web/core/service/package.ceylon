@@ -1,0 +1,1 @@
+shared package app.dootboard.web.core.service;

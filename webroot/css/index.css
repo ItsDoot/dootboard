@@ -1,0 +1,12 @@
+.mdc-drawer--permanent {
+    height: auto;
+}
+
+.page-content {
+    flex: 1;
+}
+
+body {
+    min-height: 100%;
+    height: auto;
+}
